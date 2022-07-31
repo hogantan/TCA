@@ -3,6 +3,12 @@
 ## Play Now
 https://goonturr.itch.io/the-classroom-assassin
 
+![image](https://user-images.githubusercontent.com/65152263/182013437-233df7b3-31db-4c60-9d07-d610da6e759f.png)
+
+![image](https://user-images.githubusercontent.com/65152263/182013656-ee1ef036-7f25-4e68-85ed-d11dd4b4e295.png)
+
+![image](https://user-images.githubusercontent.com/65152263/182013622-ee29ce80-91ab-4842-ada1-3ea018517025.png)
+
 ## Credits
 
 Many thanks to the creators of the following assets that are used in TCA!
