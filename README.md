@@ -1,6 +1,9 @@
 # TCA - The Classroom Assassin
 
 ## Play Now
+
+Conquer the greatest high school nightmares in an epic showdown between man and the manifestations of nightmares!
+
 https://goonturr.itch.io/the-classroom-assassin
 
 ![image](https://user-images.githubusercontent.com/65152263/182013437-233df7b3-31db-4c60-9d07-d610da6e759f.png)
@@ -42,3 +45,6 @@ Unity Assets:
 - https://assetstore.unity.com/packages/audio/electric-sound-effects-library-36990
 - https://assetstore.unity.com/packages/audio/sound-fx/ui-sfx-36989
 - https://assetstore.unity.com/packages/audio/sound-fx/horror-sfx-32834
+
+Zapsplat Sounds:
+- Sound effects obtained from https://www.zapsplat.com
